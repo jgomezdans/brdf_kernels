@@ -1,4 +1,4 @@
 brdf_kernels
 ============
 
-BRDF kernels Python code
+BRDF kernels Python code from Lewis
